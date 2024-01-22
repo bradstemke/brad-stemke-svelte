@@ -14,7 +14,7 @@ As I have started refactoring and rebuilding my personal website using Svelte, I
 
 1. Svelte just works. From installation to creating components, everything has been very natural-feeling, practical in approach, and simple. For example, placing components into the /lib folder and being able to call them in the project so simply is amazing. 
 
-2. While I have only created a single component, as I continue with the rest, I am already a huge fan of the scoped styling and overall approach taken in regards to styling. Writing plain CSS again feels like coming home. Not needing to be concerned with a CSS-in-JS approach or methods feels refreshing.
+2. While I have only created a single component, as I continue with the rest, I am already a huge fan of the scoped styling and overall approach taken in regards to styling. Writing plain CSS again feels like coming home. Not needing to be concerned with a CSS-in-JS approach or methods feels refreshing. I've already noticed that this feature will allow me to remove some CSS that will now become unnecessary to include!
 
 3. Coding and frameworks can, at times, be as complex as you allow them to be. At every turn, I can tell that the community and team behind Svelte have taken the developer experience as a top priority, and that becomes increasingly apparent the more I work with it.
 
