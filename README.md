@@ -1,4 +1,6 @@
-# create-svelte
+# bradstemke.com
+
+Rebuilding my personal website using Svelte, and documenting it here.
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
